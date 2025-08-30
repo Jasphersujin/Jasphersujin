@@ -12,7 +12,6 @@
 - 🧠 Skilled in: **JavaScript, React, Node.js, Next.js, Spring Boot, PostgreSQL**  
 - 🚀 Passionate about: **AI-powered SaaS Platforms & Automation Systems**  
 - 📫 Reach me at: **jasphersujin273@gmail.com**  
-- 🎯 2025 Goal: **Launch my own SaaS startup**  
 
 ---
 
