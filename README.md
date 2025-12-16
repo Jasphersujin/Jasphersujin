@@ -43,10 +43,9 @@
 ### 🌟 Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [AI Voice Tutor SaaS](https://github.com/Jasphersujin/) | Full-stack AI LMS with real-time voice tutoring & payments | Next.js · PostgreSQL · Supabase · OpenAI · Stripe |
-| [Threads Clone](https://github.com/Jasphersujin/) | Social media clone with real-time interactions | React · Node.js · MySQL · Express |
-| [Agency Portfolio](https://github.com/Jasphersujin/) | Freelance project for marketing agency website | PHP · React · Bootstrap |
-
+| [AI Voice Tutor SaaS](https://github.com/Jasphersujin/js-sass-app) | Full-stack AI LMS with real-time voice tutoring & payments | Next.js · PostgreSQL · Supabase · OpenAI · Stripe |
+| [AI Powered RFP System](https://github.com/Jasphersujin/AI-Powered-RFP-Request-For-Proposal) | Full-stack AI powered RFP management system | Next.js ·MongoDB · React · Node JS · Nodemailer |
+| [Threads Clone](https://github.com/Jasphersujin/Social-Media-App-MERN-Application-) | Social media clone with real-time interactions | React · Node.js · MySQL · Express |
 ---
 
 ### 🌐 Connect With Me
