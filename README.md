@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Jaspher Sujin</h1>
 <h3 align="start">Sofware Engineer | Experience in building systems from 0→1 in the fast-paced startup environment</h3>
 
-<p align="center">
+<p align="start">
   <img src="https://komarev.com/ghpvc/?username=jaspher28&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
