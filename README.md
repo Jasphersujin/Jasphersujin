@@ -7,15 +7,15 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on: **Supply Chain Traceability Software**  
-- 🧠 Skilled in: **JavaScript, React, Node.js, Next.js, Spring Boot, PostgreSQL**  
-- 🚀 Passionate about: **AI-powered SaaS Platforms & Automation Systems**  
-- 📫 Reach me at: **jasphersujin273@gmail.com**  
+### About Me
+-  Currently working on: **Supply Chain Traceability Software**  
+-  Skilled in: **JavaScript, React, Node.js, Next.js, Spring Boot, PostgreSQL**  
+-  Passionate about: **AI-powered SaaS Platforms & Automation Systems**  
+-  Reach me at: **jasphersujin273@gmail.com**  
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
