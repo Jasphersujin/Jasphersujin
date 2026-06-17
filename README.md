@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=jaspher28&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+--
 
 ### About Me
 -  Currently working on: **Supply Chain Traceability Software**  
@@ -40,7 +40,7 @@
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [AI Voice Tutor SaaS](https://github.com/Jasphersujin/js-sass-app) | Full-stack AI LMS with real-time voice tutoring & payments | Next.js · PostgreSQL · Supabase · OpenAI · Stripe |
@@ -48,11 +48,11 @@
 | [Threads Clone](https://github.com/Jasphersujin/Social-Media-App-MERN-Application-) | Social media clone with real-time interactions | React · Node.js · MySQL · Express |
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaspher-sujin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasphersujin273@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ---
 
-<h4 align="center">🚀 "Code is poetry, but shipping is art. Let’s build something impactful."</h4>
+<h4 align="center"> "Code is poetry, but shipping is art. Let’s build something impactful."</h4>
