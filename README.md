@@ -8,6 +8,7 @@
 ---
 
 ### About Me
+-  Architected the RBAC Framework | Implmented in the system | Can manage all the menu's, screens, permissions for various roles
 -  Currently working on: **Supply Chain Traceability Software**  
 -  Skilled in: **JavaScript, React, Node.js, Next.js, Spring Boot, PostgreSQL**  
 -  Passionate about: **AI-powered SaaS Platforms & Automation Systems**  
