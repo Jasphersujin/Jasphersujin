@@ -8,9 +8,9 @@
 ---
 
 ### About Me
--  Architected the RBAC Framework | Implmented in the system | Can manage all the menu's, screens, permissions for various roles
+-  Architected the RBAC Framework | Implmented in the system configuration | Can manage all the menu's, screens, permissions for various roles
 -  Currently working on: **Supply Chain Traceability Software**  
--  Skilled in: **JavaScript, React, Node.js, Next.js, Spring Boot, PostgreSQL**  
+-  Skilled in: **Spring Boot, Java, React, Node.js, Next.js, JavaScript, MySQl**  
 -  Passionate about: **AI-powered SaaS Platforms & Automation Systems**  
 -  Reach me at: **jasphersujin273@gmail.com**  
 
